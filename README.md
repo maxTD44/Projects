@@ -28,4 +28,5 @@ To Do List
 This to do list uses bootstrap styling and three divs (which float for adjusted browser widths). Tasks are automatically added to the To Do category, and are moved to the Completed category on a button click. From either div, tasks can also be deleted.
 
 Resort
+
 Some practice with HTML and CSS work
